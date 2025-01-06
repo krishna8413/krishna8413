@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Krishna Dubey</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center"> I am an aspiring computer science engineer with a passion in
+ programming, currently pursuing my Bachelor of Engineering degree
+ from Chandigarh University. I am a well-organized, creative and a goal
+oriented person possessing excellent communication, problem solving
+ and leadership skills, currently hustling to acquire an academic
+ background in full stack web development, data science and Artificial
+ Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna8413&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna Dubey" /> </p>
 
