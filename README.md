@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Krishna Dubey</h1>
-<h3 align="center"> I am an aspiring computer science engineer with a passion in
- programming, currently pursuing my Bachelor of Engineering degree
- from Chandigarh University. I am a well-organized, creative and a goal
-oriented person possessing excellent communication, problem solving
- and leadership skills, currently hustling to acquire an academic
- background in full stack web development, data science and Artificial
- Intelligence.</h3>
+<h3 align="center"> <p align="justify">Aspiring Computer Science Engineer with a strong foundation in full-stack web development, data science, and machine learning. Proficient in building scalable web applications and developing efficient algorithms. Experienced in designing dynamic interfaces using React.js, implementing backend solutions with Node.js and MongoDB, and creating machine learning models for predictive analytics. Solved 500+ LeetCode problems, ranked among the top 10 in Tech-a-thon hackathon, and recognized for delivering innovative solutions in competitive environments. Eager to leverage technical expertise and problem-solving skills to drive impactful projects and contribute to organizational growth </p>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna8413&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna Dubey" /> </p>
 
