@@ -24,7 +24,10 @@
 ### 📘 About Me
 
 <p align="justify">
-I'm a final-year Computer Science Engineering student at Chandigarh University, passionate about full-stack development and machine learning. I enjoy building intelligent, data-driven web applications using modern technologies like React.js, Node.js, MongoDB, and LSTM models. I’ve solved 500+ LeetCode problems, ranked in the top 10 in the Tech-a-thon hackathon, and earned multiple certifications across Python, DSA, and web development. I aim to bring innovation and efficiency to every project I contribute to.
+Aspiring Computer Science Engineer skilled in full-stack development, data science, and machine learning. 
+Proficient in React.js, Node.js, MongoDB, and ML model building. Solved 500+ LeetCode problems, ranked 
+top 10 in Tech-a-thon, and recognized for innovative solutions. Eager to drive impactful projects by applying 
+logical thinking and technical expertise.
 </p>
 
 ---
@@ -89,13 +92,3 @@ I'm a final-year Computer Science Engineering student at Chandigarh University, 
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna8413&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna8413&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
